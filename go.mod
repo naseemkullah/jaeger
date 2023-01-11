@@ -27,8 +27,7 @@ require (
 	github.com/gocql/gocql v0.0.0-20200228163523-cd4b606dd2fb
 	github.com/gogo/googleapis v1.4.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/mock v1.4.3 // indirect
-	github.com/golang/protobuf v1.3.4
+	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.7.4
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
@@ -70,10 +69,11 @@ require (
 	go.uber.org/atomic v1.7.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
-	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4
-	google.golang.org/grpc v1.29.1
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
+	golang.org/x/net v0.4.0
+	golang.org/x/sys v0.3.0
+	google.golang.org/grpc v1.52.0
+	google.golang.org/grpc/examples v0.0.0-20230111003119-9b73c42daa31 // indirect
 	gopkg.in/ini.v1 v1.52.0 // indirect
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
